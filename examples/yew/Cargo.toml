@@ -1,5 +1,5 @@
 [package]
-name = "accordion-rs-yew-example"
+name = "radio-rs-yew-example"
 version = "0.1.0"
 authors = ["Mahmoud Harmouch <oss@wiseai.dev>"]
 edition = "2021"

@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "accordion-rs-yew-example"
+name = "radio-rs-yew-example"
 version = "0.1.0"
 dependencies = [
  "console_error_panic_hook",
