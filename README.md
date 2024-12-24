@@ -23,7 +23,7 @@
 | --- | --- |
 | Yew | [![Netlify Status](https://api.netlify.com/api/v1/badges/a0efc7e9-f20e-4dd9-93e1-c8f4fde7506f/deploy-status)](https://radio-rs.netlify.app) |
 | Dioxus | [![Netlify Status](https://api.netlify.com/api/v1/badges/4dabc732-d6de-4598-a629-980be35c003f/deploy-status)](https://radio-rs-dioxus.netlify.app) |
-| Leptos | TODO |
+| Leptos | [![Netlify Status](https://api.netlify.com/api/v1/badges/4912ca4b-34ae-421d-8091-d1b836f13cdf/deploy-status)](https://radio-rs-leptos.netlify.app) |
 
 ## 📜 Intro
 
@@ -43,11 +43,11 @@ The following features make Radio RS a valuable addition to your WASM-based proj
 
 Refer to [our guide](YEW.md) to integrate this component into your Yew app.
 
-## 🧬 Dioxus Usage
+## 🧬 Dioxus Usage (WIP)
 
 Refer to [our guide](DIOXUS.md) to integrate this component into your Dioxus app.
 
-## 🌱 Leptos Usage (TODO)
+## 🌱 Leptos Usage (WIP)
 
 Refer to [our guide](LEPTOS.md) to integrate this component into your Leptos app.
 
