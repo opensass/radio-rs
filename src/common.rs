@@ -1,3 +1,5 @@
+#![allow(unused)]
+
 const FLEX_HORIZONTAL: &str = "display: flex; flex-direction: row; gap: 16px;";
 const FLEX_VERTICAL: &str = "display: flex; flex-direction: column; gap: 16px;";
 pub(crate) const HIDDEN_INPUT_STYLE: &str = "position: absolute; opacity: 0; pointer-events: none;";

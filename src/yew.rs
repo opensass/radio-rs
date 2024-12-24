@@ -30,7 +30,7 @@ pub struct GroupProps {
     /// Determines the layout of the radio buttons. The available options are:
     /// - `Orientation::Horizontal`: Displays the radio buttons side by side.
     /// - `Orientation::Vertical`: Stacks the radio buttons vertically.
-    /// Defaults to `Orientation::Horizontal`.
+    ///   Defaults to `Orientation::Horizontal`.
     #[prop_or_default]
     pub orientation: Orientation,
 
@@ -271,7 +271,7 @@ pub struct RadioProps {
     /// - `Size::Small`
     /// - `Size::Medium`
     /// - etc
-    /// Defaults to `Size::XSmall` if not provided.
+    ///   Defaults to `Size::XSmall` if not provided.
     #[prop_or_default]
     pub size: Size,
 
@@ -456,7 +456,7 @@ pub fn radio(props: &RadioProps) -> Html {
         let on_click = props.on_click.clone();
         let onclick = props.onclick.clone();
         let value = props.value.to_string();
-        let disabled = props.disabled.clone();
+        let disabled = props.disabled;
         Callback::from(move |e: MouseEvent| {
             e.prevent_default();
             if !disabled {
