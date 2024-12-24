@@ -928,7 +928,7 @@ dependencies = [
 
 [[package]]
 name = "radiors"
-version = "0.0.1"
+version = "0.0.0"
 dependencies = [
  "bump2version",
  "log",
