@@ -48,8 +48,8 @@ Refer to [our guide](https://github.com/opensass/radio-rs/blob/main/YEW.md) to i
 
 ## 🧬 Dioxus Usage (WIP)
 
-<!-- absolute url for docs.rs cause Dioxus.md is not included in crate -->
-Refer to [our guide](https://github.com/opensass/radio-rs/blob/main/Dioxus.md) to integrate this component into your Dioxus app.
+<!-- absolute url for docs.rs cause DIOXUS.md is not included in crate -->
+Refer to [our guide](https://github.com/opensass/radio-rs/blob/main/DIOXUS.md) to integrate this component into your Dioxus app.
 
 ## 🌱 Leptos Usage (WIP)
 
