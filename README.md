@@ -11,13 +11,15 @@
 
 [![Join our Discord](https://dcbadge.limes.pink/api/server/b5JbvHW5nv)](https://discord.gg/b5JbvHW5nv)
 
-![logo](./assets/logo.webp)
+<!-- absolute url for docs.rs cause assets is excluded from crate -->
+![logo](https://raw.githubusercontent.com/opensass/radio-rs/refs/heads/main/assets/logo.webp)
 
 </div>
 
 ## 🎬 Demo
 
-![radio-rs-demo](./assets/demo.gif)
+<!-- absolute url for docs.rs cause assets is excluded from crate -->
+![radio-rs-demo](https://raw.githubusercontent.com/opensass/radio-rs/refs/heads/main/assets/demo.gif)
 
 | Framework | Live Demo |
 | --- | --- |
@@ -41,15 +43,18 @@ The following features make Radio RS a valuable addition to your WASM-based proj
 
 ## Yew Usage
 
-Refer to [our guide](YEW.md) to integrate this component into your Yew app.
+<!-- absolute url for docs.rs cause YEW.md is not included in crate -->
+Refer to [our guide](https://github.com/opensass/radio-rs/blob/main/YEW.md) to integrate this component into your Yew app.
 
 ## 🧬 Dioxus Usage (WIP)
 
-Refer to [our guide](DIOXUS.md) to integrate this component into your Dioxus app.
+<!-- absolute url for docs.rs cause Dioxus.md is not included in crate -->
+Refer to [our guide](https://github.com/opensass/radio-rs/blob/main/Dioxus.md) to integrate this component into your Dioxus app.
 
 ## 🌱 Leptos Usage (WIP)
 
-Refer to [our guide](LEPTOS.md) to integrate this component into your Leptos app.
+<!-- absolute url for docs.rs cause LEPTOS.md is not included in crate -->
+Refer to [our guide](https://github.com/opensass/radio-rs/blob/main/LEPTOS.md) to integrate this component into your Leptos app.
 
 ## 🤝 Contributions
 
