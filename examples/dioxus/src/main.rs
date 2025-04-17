@@ -12,6 +12,8 @@ fn main() {
 #[component]
 fn app() -> Element {
     rsx! {
+        document::Stylesheet { href: "https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css" },
+        document::Stylesheet { href: asset!("assets/main.css") },
         LandingPage {}
     }
 }
